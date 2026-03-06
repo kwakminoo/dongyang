@@ -1,0 +1,6 @@
+{
+	// Java 실행 시 터미널만 사용 (디버그 콘솔 장식 최소화)
+	"java.debug.settings.console": "integratedTerminal",
+	// 태스크로 실행 시 출력만 보이도록: Terminal > Run Task > "Compile & Run Java (출력만 표시)"
+	"java.run.console": "integratedTerminal"
+}
